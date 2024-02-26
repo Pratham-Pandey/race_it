@@ -193,5 +193,7 @@
         <origin xyz="0.31 -0.48 -0.08" rpy="0 ${-pi/2} 0"/> <!-- Default value for x is "0.27" -->
         <axis xyz="0 0 1"/>
   </joint>
-      
+  
+  <xacro:include filename="ros2_ack.xacro"/>
+  
 </robot>

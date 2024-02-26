@@ -70,6 +70,12 @@ def generate_launch_description():
         arguments=['-entity', '', '-topic', 'robot_description'],
         output='screen'
     )
+    
+    ackermann_spawner = Node(
+    package="controller_manager",
+    executable="spawner",
+    arguments=["asc"],
+    )
 
     # Launch!
     return LaunchDescription([
@@ -82,5 +88,6 @@ def generate_launch_description():
         joint_state_publisher_node,
         rviz_node,
         gazebo,
-        spawn_entity
+        spawn_entity,
+        ackermann_spawner
     ])
