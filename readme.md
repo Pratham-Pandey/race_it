@@ -65,6 +65,12 @@ Initialise Agent
 ![Label](NEW IMG)
 
 
+<figure>
+  <img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" alt="Image Description">
+  <figcaption>This is an example image illustrating the concept of XYZ.</figcaption>
+</figure>
+
+
 
 
 ## Some Links That Might Help
