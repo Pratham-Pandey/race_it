@@ -80,7 +80,7 @@ https://github.com/Pratham-Pandey/race_it/assets/85839299/5b30796e-40c0-453c-b54
 *Camera View*
 
 ![segmented_road](https://github.com/Pratham-Pandey/race_it/assets/85839299/3a78cb7f-ff09-4e77-8dc4-10501fa12593)
-*                        Road Segmented View*
+<center>Road Segmented View</center>
 
 
 
