@@ -67,20 +67,21 @@ https://github.com/Pratham-Pandey/race_it/assets/85839299/5b30796e-40c0-453c-b54
 
 
 ## Screenshots
+### *Overview Screen*
 ![overview_screen](https://github.com/Pratham-Pandey/race_it/assets/85839299/0a9b42e6-2c48-4f60-8367-daf7021cfe88)
-*Overview Screen*
 
+### *Gazebo Screen*
 ![main_screen](https://github.com/Pratham-Pandey/race_it/assets/85839299/95ebe1ac-7dbc-47a2-a9b7-a4824226fd5e)
-*Gazebo Screen*
 
+### *Rviz Screen*
 ![rviz](https://github.com/Pratham-Pandey/race_it/assets/85839299/b14d23d8-fd54-4c10-9b6d-9d538cd45075)
-*Rviz Screen*
 
+### *Camera View*
 ![cam_view](https://github.com/Pratham-Pandey/race_it/assets/85839299/520f6815-2a84-42a0-b1c3-070bc99cbc56)
-*Camera View*
 
+### *Road Segmented View*
 ![segmented_road](https://github.com/Pratham-Pandey/race_it/assets/85839299/3a78cb7f-ff09-4e77-8dc4-10501fa12593)
-*Road Segmented View*
+
 
 
 
