@@ -59,19 +59,31 @@ Initialise Agent
   ros2 run temp_teleop agent
 ```
 
+## Output Video
+
+
+https://github.com/Pratham-Pandey/race_it/assets/85839299/5b30796e-40c0-453c-b547-297f234cf075
+
+
+
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Label](NEW IMG)
-
-
-<figure>
-  <img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" alt="Image Description">
-  <figcaption>This is an example image illustrating the concept of XYZ.</figcaption>
-</figure>
+![overview_screen](https://github.com/Pratham-Pandey/race_it/assets/85839299/0a9b42e6-2c48-4f60-8367-daf7021cfe88)
+![Label](Overview Screen)
 
 
-https://github.com/Pratham-Pandey/race_it/assets/85839299/53200fe9-5172-48f6-93b3-1a5476195eaa
+![main_screen](https://github.com/Pratham-Pandey/race_it/assets/85839299/95ebe1ac-7dbc-47a2-a9b7-a4824226fd5e)
+![Label](Gazebo Screen)
+
+![rviz](https://github.com/Pratham-Pandey/race_it/assets/85839299/b14d23d8-fd54-4c10-9b6d-9d538cd45075)
+![Label](Rviz Screen)
+
+![cam_view](https://github.com/Pratham-Pandey/race_it/assets/85839299/520f6815-2a84-42a0-b1c3-070bc99cbc56)
+![Label](Camera View)
+
+![segmented_road](https://github.com/Pratham-Pandey/race_it/assets/85839299/3a78cb7f-ff09-4e77-8dc4-10501fa12593)
+![Label](Road Segmented View)
+
+
 
 
 
