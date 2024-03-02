@@ -26,12 +26,12 @@ RaceIt operates on the following techology:
 
 Clone the project
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Pratham-Pandey/race_it.git
 ```
 
 Go to the project directory
 ```bash
-  cd my-project
+  cd race_it
 ```
 
 Build project
